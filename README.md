@@ -1,5 +1,5 @@
 # Malloc-lab
-CSAPP Malloc-lab: design and implement my own dynamic memory allocator in C, with a 91% evaluation score.
+CSAPP Malloc-lab: design and implement my own dynamic memory allocator in C, with a 91% performance index.
 The mm.c file is included. The code is well-commented and readable.
 
 ## Design Logic
