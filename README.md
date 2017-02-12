@@ -8,7 +8,7 @@ The mm.c file is included. The code is well-commented and readable.
 
 *seg_listp is a global pointer to the first element of seg list.
 
-*The seg_lists is of size COUNT*WSIZE, each entry stores the address of first block in a size class,and the entire seg_lists is on the bottom of heap. 
+*The seg_lists is of size COUNTxWSIZE, each entry stores the address of first block in a size class,and the entire seg_lists is on the bottom of heap. 
 
 *Blocks are inserted or removed from/to seg_lists when freed or malloced. 
 
